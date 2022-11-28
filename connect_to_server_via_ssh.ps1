@@ -1,0 +1,1 @@
+﻿start-process powershell -argumentlist "ssh <USERNAME>@<IP> -p <PORT>"
